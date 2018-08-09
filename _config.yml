@@ -1,15 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: My site
+author: Rumen98
+email: r.koichev@viscomp.bg
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  
+
+An exhilarating adventure brought to life by the industry-leading id Tech 6, Wolfenstein II sends players to Nazi-controlled America on a mission to recruit the boldest resistance leaders left. Fight the Nazis in iconic locations such as small-town Roswell, New Mexico, the bayous and boulevards of New Orleans, and a post-nuclear Manhattan. Equip an arsenal of super guns, and unleash new abilities to blast your way through legions of advanced Nazi soldiers and über soldiers in this definitive first-person shooter.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: None Twitter
+github_username:  Rumen98
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-leap-day
+theme: minima
